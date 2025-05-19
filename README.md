@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **sarthakjain3241@gmail.com**
 
-- 📑 Know more about me [https://shorturl.at/4wH6S](https://shorturl.at/4wH6S)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sarthakjain29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthakjain29" height="30" width="40" /></a>
