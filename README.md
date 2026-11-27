@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Sarthak Jain: Software Engineer at Myra AI, building GenAI products that hold up in production. 2+ years in industry, 10 open-source AI projects, 500+ users on auth flows built, 300+ LeetCode problems solved." src="assets/banner-light.svg" width="100%">
+  <img alt="Sarthak Jain: Software Engineer at Myra AI, building GenAI products that hold up in production. 2+ years in industry, 10 open-source AI projects, 9.07 CGPA in B.Tech Computer Science, 300+ LeetCode problems solved." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p>
@@ -12,7 +12,7 @@
 
 Full-stack engineer (TypeScript · MERN) who spends most days on the unglamorous half of GenAI: **what happens when the model is slow, rate-limited, down, or just wrong.** Every project here has a fallback chain, runs with zero API keys, and ships with tests.
 
-**Right now at Myra AI** I'm building MCP OAuth integrations, MFA and session revocation for 500+ users, LLM model fallbacks, and an eval tool that replays conversations to see how persistent LLM memory drifts over time.
+**Right now at Myra AI** I'm building MCP OAuth integrations, MFA and session revocation for the platform's 500+ users, LLM model fallbacks, and an eval tool that replays conversations to see how persistent LLM memory drifts over time.
 
 ---
 
