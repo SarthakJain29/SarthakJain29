@@ -1,38 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Sarthak Jain, Software Engineer building GenAI apps that keep working when the model doesn't">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Sarthak Jain, Software Engineer at Myra AI. 2+ years building in industry, 10 open-source AI projects, 500+ users on auth flows built, 300+ LeetCode problems solved.">
 <style>
   .n{font:700 56px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;fill:#e6edf3;letter-spacing:-1.5px}
   .r{font:500 22px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;fill:#8b949e}
-  .t{font:400 19px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;fill:#8b949e}
-  .m{font:600 15px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace;fill:#e6edf3}
-  .s{font:500 13px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace;fill:#8b949e}
-  .x1{animation:f1 6s infinite} .x2{animation:f2 6s infinite} .x3{animation:f3 6s infinite}
-  .k1{animation:k1 6s infinite} .k2{animation:k2 6s infinite} .k3{animation:k3 6s infinite}
-  .cur{animation:blink 1s steps(1) infinite}
-  @keyframes f1{0%,8%{opacity:.35}12%,30%{opacity:1}36%,100%{opacity:.35}}
-  @keyframes f2{0%,36%{opacity:.35}40%,58%{opacity:1}64%,100%{opacity:.35}}
-  @keyframes f3{0%,64%{opacity:.35}68%,96%{opacity:1}100%{opacity:.35}}
-  @keyframes k1{0%,22%{opacity:0}26%,96%{opacity:1}100%{opacity:0}}
-  @keyframes k2{0%,50%{opacity:0}54%,96%{opacity:1}100%{opacity:0}}
-  @keyframes k3{0%,78%{opacity:0}82%,96%{opacity:1}100%{opacity:0}}
-  @keyframes blink{50%{opacity:0}}
-  @media (prefers-reduced-motion:reduce){.x1,.x2,.x3,.k1,.k2,.k3,.cur{animation:none;opacity:1}}
+  .tg{font:400 19px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;fill:#8b949e}
+  .v{font:700 30px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;fill:#e6edf3;letter-spacing:-.5px}
+  .l{font:400 14px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;fill:#8b949e}
+  .t0{animation:in .6s ease-out 0.00s both}.t1{animation:in .6s ease-out 0.15s both}.t2{animation:in .6s ease-out 0.30s both}.t3{animation:in .6s ease-out 0.45s both}
+  @keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){[class^=t]{animation:none}}
 </style>
 <rect width="1200" height="300" rx="16" fill="#0d1117"/>
 <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="none" stroke="#30363d"/>
-<text x="56" y="112" class="n">Sarthak Jain</text>
-<text x="58" y="152" class="r">Software Engineer @ Myra AI · Hyderabad, India</text>
-<text x="58" y="196" class="t">I build GenAI apps that keep working</text>
-<text x="58" y="222" class="t">when the model doesn't.</text>
-<rect x="290" y="207" width="9" height="20" fill="#a371f7" class="cur"/>
-
-<text x="700" y="88" class="s">// request → fallback chain</text>
-<g class="x1"><rect x="700" y="106" width="140" height="44" rx="10" fill="#161b22" stroke="#30363d"/><text x="722" y="134" class="m">gemini</text></g>
-<text x="806" y="134" class="m k1" fill="#f85149" style="fill:#f85149">503</text>
-<path d="M848 128h28" stroke="#30363d" stroke-width="2"/><path d="M872 122l8 6-8 6" fill="none" stroke="#30363d" stroke-width="2"/>
-<g class="x2"><rect x="888" y="106" width="120" height="44" rx="10" fill="#161b22" stroke="#30363d"/><text x="910" y="134" class="m">groq</text></g>
-<text x="966" y="134" class="m k2" style="fill:#f85149">429</text>
-<path d="M1016 128h28" stroke="#30363d" stroke-width="2"/><path d="M1040 122l8 6-8 6" fill="none" stroke="#30363d" stroke-width="2"/>
-<g class="x3"><rect x="1056" y="106" width="100" height="44" rx="10" fill="#161b22" stroke="#3fb950"/><text x="1072" y="134" class="m">offline</text></g>
-<g class="k3"><text x="1156" y="184" class="m" text-anchor="end" style="fill:#3fb950">✓ still answered</text></g>
-<text x="700" y="232" class="s">every project below ships with a chain like this</text>
+<rect x="56" y="62" width="40" height="4" rx="2" fill="#a371f7"/>
+<text x="54" y="130" class="n">Sarthak Jain</text>
+<text x="56" y="170" class="r">Software Engineer @ Myra AI · Hyderabad, India</text>
+<text x="56" y="214" class="tg">Full-stack engineer building GenAI products</text>
+<text x="56" y="240" class="tg">that hold up in production.</text>
+<g class="t0"><rect x="676" y="56" width="236" height="88" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="696" y="100" class="v">2+</text><text x="696" y="124" class="l">years building in industry</text></g>
+<g class="t1"><rect x="928" y="56" width="236" height="88" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="948" y="100" class="v">10</text><text x="948" y="124" class="l">open-source AI projects</text></g>
+<g class="t2"><rect x="676" y="160" width="236" height="88" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="696" y="204" class="v">500+</text><text x="696" y="228" class="l">users on auth flows I built</text></g>
+<g class="t3"><rect x="928" y="160" width="236" height="88" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="948" y="204" class="v">300+</text><text x="948" y="228" class="l">LeetCode problems solved</text></g>
 </svg>

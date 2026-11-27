@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Sarthak Jain: Software Engineer at Myra AI. I build GenAI apps that keep working when the model doesn't." src="assets/banner-light.svg" width="100%">
+  <img alt="Sarthak Jain: Software Engineer at Myra AI, building GenAI products that hold up in production. 2+ years in industry, 10 open-source AI projects, 500+ users on auth flows built, 300+ LeetCode problems solved." src="assets/banner-light.svg" width="100%">
 </picture>
 
 <p>
